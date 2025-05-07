@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\infov\\Desktop\\Teste\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\domain\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\domain\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\dal\\pessoasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\dal\\pessoasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\domain\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\domain\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\dal\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\dal\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\domain\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\domain\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|c:\\users\\infov\\desktop\\teste\\server\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE8D2BEF-85CE-4CF3-8505-E877BCBB0CB3}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PessoaController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwBAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:37:14.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:36:52.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T18:24:54.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:23:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Dal\\PessoaRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Dal\\PessoaRepository.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Dal\\PessoaRepository.cs",
+              "RelativeToolTip": "Api\\Dal\\PessoaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:20:20.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Domain\\IPessoaRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Domain\\IPessoaRepository.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Domain\\IPessoaRepository.cs",
+              "RelativeToolTip": "Api\\Domain\\IPessoaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:19:07.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PessoaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Domain\\PessoaDTO.cs",
+              "RelativeDocumentMoniker": "Api\\Domain\\PessoaDTO.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Domain\\PessoaDTO.cs",
+              "RelativeToolTip": "Api\\Domain\\PessoaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:18:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Dal\\PessoasDbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Dal\\PessoasDbContext.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Dal\\PessoasDbContext.cs",
+              "RelativeToolTip": "Api\\Dal\\PessoasDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:11:09.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T18:10:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Domain\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Api\\Domain\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\infov\\Desktop\\Teste\\Server\\Api\\Domain\\Pessoa.cs",
+              "RelativeToolTip": "Api\\Domain\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:09:40.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
